@@ -1,0 +1,1 @@
+{ "debug_packets":false, "maintenance":false, "maintenance_bypass":["swe", "napom", "ruzgar"], "world_events":false }
